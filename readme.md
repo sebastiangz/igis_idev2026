@@ -1,5 +1,5 @@
 # 📚 MANUAL DE USUARIO - INFRAESTRUCTURAGIS
-## Guía para Principiantes: GeoNetwork y GeoServer
+## Guía para usuarios GAEGRUC: GeoNetwork y GeoServer
 
 ---
 
