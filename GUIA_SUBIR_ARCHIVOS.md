@@ -30,7 +30,7 @@ WinSCP es un programa gratuito para transferir archivos de forma visual (drag & 
 
 1. En la ventana de **Login**:
    - **File protocol**: SFTP
-   - **Host name**: `192.168.40.100`
+   - **Host name**: `gis.infraestructuragis.com`
    - **Port number**: `22`
    - **User name**: `igis`
    - **Password**: [Solicita al administrador]
@@ -84,7 +84,7 @@ FileZilla es otra alternativa gratuita multiplataforma.
 
 1. Abre FileZilla
 2. En la parte superior, completa:
-   - **Host**: `sftp://192.168.40.100`
+   - **Host**: `sftp://gis.infraestructuragis.com`
    - **Username**: `igis`
    - **Password**: [Tu contraseña]
    - **Port**: `22`
@@ -120,14 +120,14 @@ Si usas Linux o Mac, puedes usar `scp` desde la terminal.
 ### Comando básico:
 
 ```bash
-scp ruta/a/mi_archivo.zip igis@192.168.40.100:/home/igis/uploads/
+scp ruta/a/mi_archivo.zip igis@gis.infraestruccturagis.com:/home/igis/uploads/
 ```
 
 ### Ejemplo real:
 
 ```bash
 # Si tu archivo está en el Escritorio
-scp ~/Desktop/municipios_colima.zip igis@192.168.40.100:/home/igis/uploads/
+scp ~/Desktop/municipios_colima.zip igis@gis.infraestruccturagis.com:/home/igis/uploads/
 
 # Te pedirá la contraseña
 # Escríbela y presiona Enter
@@ -137,13 +137,13 @@ scp ~/Desktop/municipios_colima.zip igis@192.168.40.100:/home/igis/uploads/
 ### Subir múltiples archivos:
 
 ```bash
-scp archivo1.zip archivo2.zip archivo3.zip igis@192.168.40.100:/home/igis/uploads/
+scp archivo1.zip archivo2.zip archivo3.zip igis@gis.infraestruccturagis.com:/home/igis/uploads/
 ```
 
 ### Subir una carpeta completa:
 
 ```bash
-scp -r /ruta/a/mi_carpeta igis@192.168.40.100:/home/igis/uploads/
+scp -r /ruta/a/mi_carpeta igis@gis.infraestruccturagis.com:/home/igis/uploads/
 ```
 
 ---
@@ -162,7 +162,7 @@ Windows 10/11 incluye `scp` nativo.
 
 3. Ejecuta:
    ```cmd
-   scp mi_archivo.zip igis@192.168.40.100:/home/igis/uploads/
+   scp mi_archivo.zip igis@gis.infraestruccturagis.com:/home/igis/uploads/
    ```
 
 4. Ingresa la contraseña cuando te la pida
@@ -246,7 +246,7 @@ Para acceder al servidor necesitas:
 
 | Campo | Valor |
 |-------|-------|
-| **Host** | 192.168.40.100 |
+| **Host** | gis.infraestruccturagis.com |
 | **Puerto** | 22 |
 | **Usuario** | igis |
 | **Contraseña** | [Solicitar al administrador] |
@@ -289,7 +289,7 @@ R: Sí, existen apps como "FTP Manager" (Android) o "Termius" (iOS) para transfe
 Si tienes problemas subiendo archivos:
 
 📧 **Email**: sgonzalez@infraestructuragis.com
-📞 **Ext**: [Agregar extensión]
+📞 **Ext**: [312--------]
 
 Incluye en tu mensaje:
 - Qué método intentaste usar
