@@ -194,7 +194,7 @@ Necesitas transferir tu archivo al servidor usando una de estas opciones:
 
 **Opción 1B: Usar scp desde línea de comandos (Linux/Mac)**
 ```bash
-scp mi_shapefile.zip igis@192.168.40.100:/home/igis/uploads/
+scp mi_shapefile.zip USUARIO@gis.infraestructuragis.com:/home/igis/uploads/
 ```
 
 **Paso 2: Usar el Importer en GeoServer**
@@ -633,7 +633,7 @@ map.add(wmsLayer);
 
 📧 **Email**: sgonzalez@infraestructuragis.com
 🌐 **Portal**: https://gis.infraestructuragis.com
-📞 **Teléfono**: [Agregar número]
+📞 **Teléfono**: (ya te lo sabes) 
 
 ### Recursos adicionales:
 
