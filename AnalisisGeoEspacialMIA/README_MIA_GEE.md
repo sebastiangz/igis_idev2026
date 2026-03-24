@@ -51,8 +51,7 @@ GEE_PROJECT = 'tu-proyecto-gee'         # Tu proyecto en GEE
 AnalisisGeoEspacialMIA/
 ├── capasSHP/
 │   ├── areaSAR.shp          # Polígono del Sistema Ambiental Regional
-│   ├── areaProyecto.shp     # Polígono del Área de Proyecto
-│   └── sitiosMuestreo.shp   # Puntos de muestreo (opcional)
+│
 ├── resultados_MIA_GEE/      # Se crea automáticamente
 │   ├── reportes/
 │   │   ├── reporte_proceso_MIA.md
