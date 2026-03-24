@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Este programa Python realiza un análisis geoespacial completo para la **Manifestación de Impacto Ambiental (MIA) Modalidad Regional** del proyecto "Desarrollo del Puerto Nuevo Manzanillo, en el Vaso II de la Laguna Cuyutlán".
+Este programa Python realiza un análisis geoespacial semi-completo para la **Manifestación de Impacto Ambiental (MIA) Modalidad Regional** del proyecto "Desarrollo del Puerto Nuevo Manzanillo, en el Vaso II de la Laguna Cuyutlán".
 
 El script está diseñado siguiendo la estructura del programa `NATECHv3.py` y genera reportes detallados de cada proceso.
 
