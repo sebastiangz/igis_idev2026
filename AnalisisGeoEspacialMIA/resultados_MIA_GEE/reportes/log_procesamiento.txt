@@ -1,0 +1,138 @@
+======================================================================
+LOG DE PROCESAMIENTO - ANÁLISIS GEOESPACIAL MIA
+Inicio: 2026-03-24 17:11:46
+======================================================================
+
+[17:11:46] [INFO] ======================================================================
+[17:11:46] [INFO] ANÁLISIS GEOESPACIAL MIA v1.0
+[17:11:46] [INFO] Manifestación de Impacto Ambiental - Puerto Nuevo Manzanillo
+[17:11:46] [INFO] Laguna de Cuyutlán, Colima
+[17:11:46] [INFO] ======================================================================
+[17:11:46] [INFO] 
+[17:11:46] [INFO] 
+======================================================================
+[17:11:46] [INFO] PASO 1: Autenticación Google Earth Engine
+[17:11:46] [INFO] ======================================================================
+[17:11:52] [INFO]   ✓ GEE inicializado: proyecto 'recaptcha-migrated-7c76cc4e92d'
+[17:11:52] [INFO]   ✓ Paso 1 completado en 6.22 segundos
+[17:11:52] [INFO] 
+======================================================================
+[17:11:52] [INFO] PASO 2: Carga del Sistema Ambiental Regional (SAR)
+[17:11:52] [INFO] ======================================================================
+[17:11:52] [INFO]   ✓ SAR cargado desde shapefile: D:\ownCloud\Python\AnalisisGeoEspacialMIA\capasSHP\areaSAR.shp
+[17:11:52] [INFO]   ✓ Tipo geometría: MultiPolygon
+[17:11:53] [INFO]   ✓ Centroide SAR: 19.0326°N, -104.1556°W
+[17:11:53] [INFO]   ✓ Área SAR: 585.93 km²
+[17:11:53] [INFO]   ✓ Área AP: 3.51 km²
+[17:11:53] [INFO]   ✓ Paso 2 completado en 0.94 segundos
+[17:11:53] [INFO] 
+======================================================================
+[17:11:53] [INFO] PASO 3: Análisis de Cobertura de Manglar (NOM-022)
+[17:11:53] [INFO] ======================================================================
+[17:11:53] [INFO]   Procesando detección de manglar con múltiples fuentes...
+[17:11:53] [INFO]   Intentando cargar: projects/earthengine-legacy/assets/projects/global-mangrove-watch/GMW/2020
+[17:11:53] [INFO]   [INFO] No disponible projects/earthengine-legacy/assets/projects/global-mangrove-watch/GMW/2020: ImageCollection.load: ImageCollection asset 'proje...
+[17:11:53] [INFO]   Intentando cargar: projects/ee-globalmangroveswatch/assets/GMW_v3_2020
+[17:11:54] [INFO]   [INFO] No disponible projects/ee-globalmangroveswatch/assets/GMW_v3_2020: ImageCollection.load: Asset 'projects/ee-globalman...
+[17:11:54] [INFO]   → Usando clasificación espectral alternativa para manglar...
+[17:11:54] [INFO]   ✓ Clasificación espectral completada
+[17:13:12] [INFO]   ✓ Buffer de protección generado: 100 m
+[17:13:12] [INFO]   ✓ Fuente de datos: Clasificación espectral (NDVI+NDWI+CMRI+SRTM+JRC)
+[17:13:12] [INFO]   ✓ Área de manglar en SAR: 170.04 ha
+[17:13:12] [INFO]   ✓ Área de manglar en AP: 1.17 ha
+[17:13:12] [INFO]   ✓ Buffer de protección: 100 m (NOM-022)
+[17:13:12] [INFO]   ✓ CSV manglar guardado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\analisis_manglar.csv
+[17:13:12] [INFO]   ✓ Paso 3 completado en 78.42 segundos
+[17:13:12] [INFO] 
+======================================================================
+[17:13:12] [INFO] PASO 4: Análisis Multitemporal de NDVI (Salud Vegetación)
+[17:13:12] [INFO] ======================================================================
+[17:13:12] [INFO]   Procesando series temporales Sentinel-2...
+[17:13:14] [INFO]   ✓ NDVI 2016: media=0.333
+[17:13:24] [INFO]   ✓ NDVI 2018: media=0.371
+[17:14:25] [INFO]   ✓ NDVI 2020: media=0.498
+[17:15:58] [INFO]   ✓ NDVI 2022: media=0.419
+[17:17:14] [INFO]   ✓ NDVI 2025: media=0.402
+[17:17:14] [INFO]   ✓ Cambio NDVI (2016-2025): +0.069 (MEJORA)
+[17:17:14] [INFO]   ✓ CSV NDVI guardado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\estadisticas_ndvi.csv
+[17:17:14] [INFO]   ✓ Paso 4 completado en 242.37 segundos
+[17:17:14] [INFO] 
+======================================================================
+[17:17:14] [INFO] PASO 5: Análisis de Cambio de Uso de Suelo
+[17:17:14] [INFO] ======================================================================
+[17:17:14] [INFO]   Comparando períodos para detectar cambios...
+[17:18:57] [INFO]   ✓ Área con pérdida de vegetación: 2266.83 ha
+[17:18:57] [INFO]   ✓ Área con ganancia de vegetación: 7695.57 ha
+[17:18:57] [INFO]   ✓ Balance neto: +5428.75 ha
+[17:18:57] [INFO]   ✓ CSV cambio guardado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\cambio_uso_suelo.csv
+[17:18:57] [INFO]   ✓ Paso 5 completado en 102.86 segundos
+[17:18:57] [INFO] 
+======================================================================
+[17:18:57] [INFO] PASO 6: Análisis de Cuerpos de Agua (JRC GSW)
+[17:18:57] [INFO] ======================================================================
+[17:18:57] [INFO]   Procesando JRC Global Surface Water...
+[17:18:59] [INFO]   ✓ Agua permanente: 4568.88 ha
+[17:18:59] [INFO]   ✓ Agua estacional: 1426.22 ha
+[17:18:59] [INFO]   ✓ Total cuerpos de agua: 5995.11 ha
+[17:18:59] [INFO]   ✓ Paso 6 completado en 1.71 segundos
+[17:18:59] [INFO] 
+======================================================================
+[17:18:59] [INFO] PASO 7: Modelo Digital de Elevación y Pendientes (SRTM)
+[17:18:59] [INFO] ======================================================================
+[17:18:59] [INFO]   Procesando SRTM DEM...
+[17:19:01] [INFO]   ✓ Elevación media: 158.4 m
+[17:19:01] [INFO]   ✓ Elevación mín/máx: -35.0 - 1240.0 m
+[17:19:01] [INFO]   ✓ Área bajo 5m (susceptible inundación): 11415.13 ha
+[17:19:01] [INFO]   ✓ Paso 7 completado en 2.09 segundos
+[17:19:01] [INFO] 
+======================================================================
+[17:19:01] [INFO] PASO 8: Análisis Climático (Temperatura y Precipitación)
+[17:19:01] [INFO] ======================================================================
+[17:19:01] [INFO]   Procesando MODIS LST y CHIRPS...
+[17:19:05] [INFO]   ✓ Temperatura superficial media: 30.4 °C
+[17:19:05] [INFO]   ✓ Temperatura superficial máxima: 34.1 °C
+[17:19:05] [INFO]   ✓ Precipitación media anual: 0.0 mm
+[17:19:05] [INFO]   ✓ Paso 8 completado en 4.49 segundos
+[17:19:05] [INFO] 
+======================================================================
+[17:19:05] [INFO] PASO 9: Detección de Incendios Históricos (MODIS Fire)
+[17:19:05] [INFO] ======================================================================
+[17:19:05] [INFO]   Procesando MODIS Active Fire...
+[17:19:19] [INFO]   ✓ Detecciones de fuego (período 2016-2025): 256.36078431372545
+[17:19:19] [INFO]   ✓ Máximo de detecciones en un pixel: 11
+[17:19:19] [INFO]   ✓ Paso 9 completado en 13.86 segundos
+[17:19:19] [INFO] 
+======================================================================
+[17:19:19] [INFO] PASO 10: Generación de Mapa Interactivo HTML
+[17:19:19] [INFO] ======================================================================
+[17:19:19] [INFO]   Creando mapa con geemap...
+[17:19:27] [INFO]   ✓ Mapa HTML guardado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\mapa_MIA_cuyutlan.html
+[17:19:27] [INFO]   ✓ Paso 10 completado en 8.38 segundos
+[17:19:27] [INFO] 
+======================================================================
+[17:19:27] [INFO] PASO 11: Exportación de Capas GeoTIFF a Google Drive
+[17:19:27] [INFO] ======================================================================
+[17:19:27] [INFO]   Exportando capas a Drive/MIA_GEE_Cuyutlan/...
+[17:19:28] [INFO]   ✓ Tarea iniciada: MIA_NDVI_actual
+[17:19:28] [INFO]   ✓ Tarea iniciada: MIA_manglar
+[17:19:29] [INFO]   ✓ Tarea iniciada: MIA_agua_ocurrencia
+[17:19:30] [INFO]   ✓ Tarea iniciada: MIA_cambio_ndvi
+[17:19:31] [INFO]   ✓ Tarea iniciada: MIA_elevacion
+[17:19:32] [INFO]   ✓ Tarea iniciada: MIA_pendiente
+[17:19:34] [INFO]   ✓ Tarea iniciada: MIA_temperatura
+[17:19:37] [INFO]   ✓ Tarea iniciada: MIA_precipitacion
+[17:19:37] [INFO]   ✓ 8 tareas de exportación iniciadas
+[17:19:37] [INFO]   → Verificar progreso en: https://code.earthengine.google.com/tasks
+[17:19:37] [INFO]   ✓ Paso 11 completado en 9.27 segundos
+[17:19:37] [INFO] 
+======================================================================
+[17:19:37] [INFO] PASO 12: Generación de Tabla Resumen USV
+[17:19:37] [INFO] ======================================================================
+[17:19:37] [INFO]   Compilando estadísticas de uso de suelo...
+[17:19:37] [INFO]   ✓ CSV USV guardado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\uso_suelo_vegetacion.csv
+[17:19:37] [INFO]   ✓ Paso 12 completado en 0.00 segundos
+[17:19:37] [INFO] 
+[17:19:37] [INFO] ======================================================================
+[17:19:37] [INFO] GENERANDO REPORTE FINAL
+[17:19:37] [INFO] ======================================================================
+[17:19:37] [INFO] Reporte Markdown generado: D:\ownCloud\Python\AnalisisGeoEspacialMIA\resultados_MIA_GEE\reportes\reporte_proceso_MIA.md

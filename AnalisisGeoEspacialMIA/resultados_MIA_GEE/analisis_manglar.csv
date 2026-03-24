@@ -1,0 +1,4 @@
+Zona,Area_Manglar_ha,Fuente,Normativa,Metodo
+SAR,170.04,Clasificación espectral (NDVI+NDWI+CMRI+SRTM+JRC),NOM-022-SEMARNAT-2003,Espectral
+AP,1.17,Clasificación espectral (NDVI+NDWI+CMRI+SRTM+JRC),NOM-022-SEMARNAT-2003,Espectral
+Buffer_proteccion_m,100,Calculado,NOM-022-SEMARNAT-2003,Buffer

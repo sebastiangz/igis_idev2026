@@ -1,0 +1,4 @@
+Tipo_Cobertura,Area_SAR_ha,Area_AP_ha,Porcentaje_SAR,Forestal,Fuente,Normativa_Aplicable
+Manglar,170.04,1.17,0.29%,Sí,Global Mangrove Watch,NOM-022-SEMARNAT-2003
+Cuerpo de Agua,5995.11,-,10.23%,No,JRC Global Surface Water,LGEEPA
+Vegetación con NDVI>0.5,-,-,-,Sí,Sentinel-2,LGDFS

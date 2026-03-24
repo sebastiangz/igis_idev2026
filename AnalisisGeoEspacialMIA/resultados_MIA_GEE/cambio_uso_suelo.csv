@@ -1,0 +1,4 @@
+Tipo_Cambio,Area_ha,Periodo,Zona,Fuente
+Pérdida de vegetación,2266.83,2017-2018 vs 2024-2025,SAR,Sentinel-2 NDVI
+Ganancia de vegetación,7695.57,2017-2018 vs 2024-2025,SAR,Sentinel-2 NDVI
+Balance neto,+5428.75,2017-2018 vs 2024-2025,SAR,Sentinel-2 NDVI
