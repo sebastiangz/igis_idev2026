@@ -262,8 +262,8 @@ El programa incluye manejo de errores con `try/except` y valores por defecto par
 
 ## Autor
 
-Generado para el proyecto MIA-R Puerto Nuevo Manzanillo  
-Basado en la estructura de NATECHv3.py
+Generado por GAGRUC para el proyecto MIA-R Puerto Nuevo Manzanillo  
+Basado en la estructura de NATECHv3.py de sgz
 
 ---
 
