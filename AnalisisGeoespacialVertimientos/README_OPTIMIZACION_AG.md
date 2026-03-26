@@ -120,7 +120,7 @@ Editar las siguientes variables en `_v1.py`:
 
 ```python
 # Rutas de archivos
-BASE = r"D:\\\\tu\\\\ruta\\\\OptimizacionVertimientos"
+BASE = r"D:\\tu\\ruta\\OptimizacionVertimientos"
 SHAPEFILE\\\_ROI = os.path.join(BASE, "capasSHP", "areaSAR.shp")
 SHAPEFILE\\\_CANONES = os.path.join(BASE, "capasSHP", "canones\\\_submarinos.shp")
 
