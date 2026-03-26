@@ -121,26 +121,26 @@ Editar las siguientes variables en `_v1.py`:
 ```python
 # Rutas de archivos
 BASE = r"D:\\tu\\ruta\\OptimizacionVertimientos"
-SHAPEFILE\\\_ROI = os.path.join(BASE, "capasSHP", "areaSAR.shp")
-SHAPEFILE\\\_CANONES = os.path.join(BASE, "capasSHP", "canones\\\_submarinos.shp")
+SHAPEFILE\\_ROI = os.path.join(BASE, "capasSHP", "areaSAR.shp")
+SHAPEFILE\\_CANONES = os.path.join(BASE, "capasSHP", "canones\\_submarinos.shp")
 
 # Credenciales GEE
-GEE\\\_PROJECT = 'tu-proyecto-gee'
+GEE_PROJECT = 'tu-proyecto-gee'
 
 # Parámetros del algoritmo genético
-PARAMS\\\_AG = {
-    'tamano\\\_poblacion': 100,  # Más población = mejor exploración
-    'num\\\_generaciones': 50,   # Más generaciones = mejor convergencia
-    'prob\\\_cruce': 0.85,
-    'prob\\\_mutacion': 0.15,
+PARAMS_AG = {
+    'tamano_poblacion': 100,  # Más población = mejor exploración
+    'num_generaciones': 50,   # Más generaciones = mejor convergencia
+    'prob_cruce': 0.85,
+    'prob_mutacion': 0.15,
 }
 
 # Restricciones del problema
 RESTRICCIONES = {
-    'distancia\\\_canon\\\_min\\\_m': 7400,     # 7.4 km (MIA actual)
-    'distancia\\\_canon\\\_ideal\\\_m': 15000,  # 15 km (recomendación)
-    'profundidad\\\_min\\\_m': -50,
-    'pendiente\\\_max\\\_grados': 15,
+    'distancia_canon_min_m': 7400,     # 7.4 km (MIA actual)
+    'distancia_canon_ideal_m': 15000,  # 15 km (recomendación)
+    'profundidad_min_m': -50,
+    'pendiente_max_grados': 15,
 }
 ```
 
@@ -159,15 +159,15 @@ python D:\\ownCloud\\Python\\AnalisisGeoespacialVertimientos\\\_v1.py
 3. Ejecutar:
 
 ```python
-exec(open(r'D:\\\\ownCloud\\\\Python\\AnalisisGeoespacialVertimientos\\\\\_v1.py').read())
+exec(open(r'D:\\ownCloud\\Python\\AnalisisGeoespacialVertimientos\\_v1.py').read())
 ```
 
 ### Opción 3: Como módulo
 
 ```python
-from D:\\\\ownCloud\\\\Python\\AnalisisGeoespacialVertimientos\\\\\_v1 import main, cargar\\\_capas\\\_qgis
+from D:\\ownCloud\\Python\\AnalisisGeoespacialVertimientos\\_v1 import main, cargar_capas_qgis
 main()
-cargar\\\_capas\\\_qgis()  # Carga resultados en QGIS
+cargar_capas_qgis()  # Carga resultados en QGIS
 ```
 
 ## 📈 INTERPRETACIÓN DE RESULTADOS
@@ -196,7 +196,7 @@ donde ninguna solución es mejor que otra en todos los objetivos simultáneament
 **soluciones\_pareto.csv:**
 
 ```csv
-ranking,longitud,latitud,dist\\\_canon\\\_km,dist\\\_puerto\\\_km,profundidad\\\_m,pendiente\\\_grados,fitness\\\_1,fitness\\\_2,fitness\\\_3,cumple\\\_restricciones
+ranking,longitud,latitud,dist_canon_km,dist_puerto_km,profundidad_m,pendiente_grados,fitness_1,fitness_2,fitness_3,cumple_restricciones
 1,-104.3521,18.8234,18.52,25.31,-95.2,8.3,2.14,25.31,1.5,SI
 2,-104.2876,18.8512,15.21,18.74,-82.1,10.1,3.21,18.74,2.1,SI
 ...
@@ -219,14 +219,14 @@ Visualización interactiva 3D del frente de Pareto con Plotly.
 ### Función de evaluación con GEE
 
 ```python
-def evaluar\\\_individuo(lon, lat):
+def evaluar_individuo(lon, lat):
     # Datos de Google Earth Engine
     profundidad = GEBCO.sample(punto)
     pendiente = ee.Terrain.slope(GEBCO).sample(punto)
     
     # Cálculo de objetivos
-    riesgo = f(dist\\\_canon, pendiente, corrientes)
-    costo = distancia\\\_puerto(lon, lat)
+    riesgo = f(dist_canon, pendiente, corrientes)
+    costo = distancia_puerto(lon, lat)
     impacto = g(profundidad, ecosistemas)
     
     return (riesgo, costo, impacto)
