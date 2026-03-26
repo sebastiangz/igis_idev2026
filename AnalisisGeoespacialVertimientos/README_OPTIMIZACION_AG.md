@@ -152,6 +152,14 @@ RESTRICCIONES = {
 python D:\\ownCloud\\Python\\AnalisisGeoespacialVertimientos\\\_v1.py
 ```
 
+## 📸 CAPTURAS DE PANTALLA
+ 
+### Ejecución del algoritmo genético (Parte 1)
+![Ejecución AG Parte 1](https://raw.githubusercontent.com/sebastiangz/igis_idev2026/main/AnalisisGeoespacialVertimientos/_images/eje0.png)
+ 
+### Ejecución del algoritmo genético (Parte 2)
+![Ejecución AG Parte 2](https://raw.githubusercontent.com/sebastiangz/igis_idev2026/main/AnalisisGeoespacialVertimientos/_images/eje1.png)
+ 
 ### Opción 2: Desde QGIS
 
 1. Abrir QGIS 3.x
@@ -190,6 +198,9 @@ donde ninguna solución es mejor que otra en todos los objetivos simultáneament
 |≥ 15 km|✅ Cumple distancia IDEAL|Verde|
 |7.4 - 15 km|⚠️ Cumple MÍNIMO MIA|Amarillo|
 |< 7.4 km|❌ NO cumple|Rojo|
+
+### Mapa de resultados
+![Mapa de Resultados](https://raw.githubusercontent.com/sebastiangz/igis_idev2026/main/AnalisisGeoespacialVertimientos/_images/mapa1.png)
 
 ### Archivos de salida
 
