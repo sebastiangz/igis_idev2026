@@ -47,7 +47,7 @@ pip install matplotlib plotly  # Para visualización
 
 ### Google Earth Engine
 
-1. Crear cuenta en: https://earthengine.google.com/
+1. Crear cuenta en: GEE
 2. Crear proyecto en Google Cloud Console
 3. Habilitar Earth Engine API
 4. Autenticarse:
