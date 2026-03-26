@@ -1,0 +1,2412 @@
+{
+  "type": "FeatureCollection",
+  "name": "Soluciones_Optimizacion_Vertimiento",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32000740454353,
+          19.04997812151973
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "longitud": -104.320007,
+        "latitud": 19.049978,
+        "dist_canon_km": 11.17,
+        "dist_puerto_km": 0.0,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.8219,
+        "fitness_2": 0.0026,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32000740454353,
+          19.04997812151973
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "longitud": -104.320007,
+        "latitud": 19.049978,
+        "dist_canon_km": 11.17,
+        "dist_puerto_km": 0.0,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.8219,
+        "fitness_2": 0.0026,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          18.700077120327443
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "longitud": -104.497087,
+        "latitud": 18.700077,
+        "dist_canon_km": 34.06,
+        "dist_puerto_km": 43.14,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2852,
+        "fitness_2": 43.1407,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          18.700077120327443
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "longitud": -104.497087,
+        "latitud": 18.700077,
+        "dist_canon_km": 34.06,
+        "dist_puerto_km": 43.14,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2852,
+        "fitness_2": 43.1407,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4963398287557,
+          18.722049450156433
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "longitud": -104.49634,
+        "latitud": 18.722049,
+        "dist_canon_km": 32.05,
+        "dist_puerto_km": 40.91,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3026,
+        "fitness_2": 40.9145,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.00431279044129,
+          19.099907541312522
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "longitud": -104.004313,
+        "latitud": 19.099908,
+        "dist_canon_km": 31.91,
+        "dist_puerto_km": 33.64,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3039,
+        "fitness_2": 33.6363,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.09751194400278,
+          19.099953091286476
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "longitud": -104.097512,
+        "latitud": 19.099953,
+        "dist_canon_km": 27.36,
+        "dist_puerto_km": 24.03,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3526,
+        "fitness_2": 24.0319,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.11680812742931,
+          19.0986042245162
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "longitud": -104.116808,
+        "latitud": 19.098604,
+        "dist_canon_km": 26.06,
+        "dist_puerto_km": 22.03,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3696,
+        "fitness_2": 22.0267,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49999682204927,
+          19.09986453503176
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "longitud": -104.499997,
+        "latitud": 19.099865,
+        "dist_canon_km": 26.01,
+        "dist_puerto_km": 19.71,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3702,
+        "fitness_2": 19.7117,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32038385646885,
+          19.09719317927417
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "longitud": -104.320384,
+        "latitud": 19.097193,
+        "dist_canon_km": 16.4,
+        "dist_puerto_km": 5.25,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5746,
+        "fitness_2": 5.2478,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.33248976369988,
+          19.077785059811294
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "longitud": -104.33249,
+        "latitud": 19.077785,
+        "dist_canon_km": 14.4,
+        "dist_puerto_km": 3.36,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6492,
+        "fitness_2": 3.3568,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.38515832523036,
+          19.09967414556684
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "longitud": -104.385158,
+        "latitud": 19.099674,
+        "dist_canon_km": 18.42,
+        "dist_puerto_km": 8.8,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5149,
+        "fitness_2": 8.7975,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32000740454353,
+          19.055373419701905
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "longitud": -104.320007,
+        "latitud": 19.055373,
+        "dist_canon_km": 11.76,
+        "dist_puerto_km": 0.6,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7834,
+        "fitness_2": 0.5975,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.11184497871119,
+          19.098564930571683
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "longitud": -104.111845,
+        "latitud": 19.098565,
+        "dist_canon_km": 26.35,
+        "dist_puerto_km": 22.53,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3656,
+        "fitness_2": 22.5317,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.11184497871119,
+          19.098564930571683
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "longitud": -104.111845,
+        "latitud": 19.098565,
+        "dist_canon_km": 26.35,
+        "dist_puerto_km": 22.53,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3656,
+        "fitness_2": 22.5317,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32148718756494,
+          19.061351613730977
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "longitud": -104.321487,
+        "latitud": 19.061352,
+        "dist_canon_km": 12.44,
+        "dist_puerto_km": 1.27,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.744,
+        "fitness_2": 1.2719,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3766743448483,
+          19.09872667883396
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "longitud": -104.376674,
+        "latitud": 19.098727,
+        "dist_canon_km": 17.96,
+        "dist_puerto_km": 8.05,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5274,
+        "fitness_2": 8.0517,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0710084291561,
+          19.099926537286038
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "longitud": -104.071008,
+        "latitud": 19.099927,
+        "dist_canon_km": 29.12,
+        "dist_puerto_km": 26.75,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.332,
+        "fitness_2": 26.7488,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3233158144775,
+          19.09223352029497
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "longitud": -104.323316,
+        "latitud": 19.092234,
+        "dist_canon_km": 15.88,
+        "dist_puerto_km": 4.71,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5925,
+        "fitness_2": 4.7091,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3233158144775,
+          19.09223352029497
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "longitud": -104.323316,
+        "latitud": 19.092234,
+        "dist_canon_km": 15.88,
+        "dist_puerto_km": 4.71,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5925,
+        "fitness_2": 4.7091,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45737548558584,
+          19.094332788246355
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "longitud": -104.457375,
+        "latitud": 19.094333,
+        "dist_canon_km": 22.31,
+        "dist_puerto_km": 15.26,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4291,
+        "fitness_2": 15.2554,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45737548558584,
+          19.094332788246355
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "longitud": -104.457375,
+        "latitud": 19.094333,
+        "dist_canon_km": 22.31,
+        "dist_puerto_km": 15.26,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4291,
+        "fitness_2": 15.2554,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.39105790153914,
+          19.099917675160736
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "longitud": -104.391058,
+        "latitud": 19.099918,
+        "dist_canon_km": 18.72,
+        "dist_puerto_km": 9.3,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5071,
+        "fitness_2": 9.3044,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32329208583606,
+          19.0565523565862
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "longitud": -104.323292,
+        "latitud": 19.056552,
+        "dist_canon_km": 11.93,
+        "dist_puerto_km": 0.81,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7734,
+        "fitness_2": 0.8066,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32384480826225,
+          19.086397047706182
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "longitud": -104.323845,
+        "latitud": 19.086397,
+        "dist_canon_km": 15.24,
+        "dist_puerto_km": 4.07,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6159,
+        "fitness_2": 4.0673,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.46341073881686,
+          19.098602898762433
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "longitud": -104.463411,
+        "latitud": 19.098603,
+        "dist_canon_km": 23.09,
+        "dist_puerto_km": 16.01,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4151,
+        "fitness_2": 16.0107,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          18.713493951385093
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "longitud": -104.497087,
+        "latitud": 18.713494,
+        "dist_canon_km": 32.85,
+        "dist_puerto_km": 41.8,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2954,
+        "fitness_2": 41.7998,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.02879247201253,
+          19.099944899145804
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "longitud": -104.028792,
+        "latitud": 19.099945,
+        "dist_canon_km": 31.59,
+        "dist_puerto_km": 31.1,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3068,
+        "fitness_2": 31.1027,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.05860126072206,
+          19.094372532922858
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "longitud": -104.058601,
+        "latitud": 19.094373,
+        "dist_canon_km": 29.56,
+        "dist_puerto_km": 27.91,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3272,
+        "fitness_2": 27.9103,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.36685799340923,
+          19.0999386659509
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "longitud": -104.366858,
+        "latitud": 19.099939,
+        "dist_canon_km": 17.71,
+        "dist_puerto_km": 7.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5344,
+        "fitness_2": 7.4218,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32000740454353,
+          19.076139462453092
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "longitud": -104.320007,
+        "latitud": 19.076139,
+        "dist_canon_km": 14.07,
+        "dist_puerto_km": 2.91,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6638,
+        "fitness_2": 2.9066,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32037850498986,
+          19.083432804836814
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "longitud": -104.320379,
+        "latitud": 19.083433,
+        "dist_canon_km": 14.88,
+        "dist_puerto_km": 3.72,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6298,
+        "fitness_2": 3.7178,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32166624027889,
+          19.077974770866525
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "longitud": -104.321666,
+        "latitud": 19.077975,
+        "dist_canon_km": 14.28,
+        "dist_puerto_km": 3.12,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6543,
+        "fitness_2": 3.1156,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32005856313468,
+          19.06514737036333
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "longitud": -104.320059,
+        "latitud": 19.065147,
+        "dist_canon_km": 12.85,
+        "dist_puerto_km": 1.68,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7222,
+        "fitness_2": 1.6843,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.42315585938498,
+          19.099950367953376
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "longitud": -104.423156,
+        "latitud": 19.09995,
+        "dist_canon_km": 20.48,
+        "dist_puerto_km": 12.18,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4655,
+        "fitness_2": 12.1806,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.43076154578011,
+          19.09934583852644
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "longitud": -104.430762,
+        "latitud": 19.099346,
+        "dist_canon_km": 20.9,
+        "dist_puerto_km": 12.87,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4566,
+        "fitness_2": 12.8683,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.482153827215,
+          19.099775761782134
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "longitud": -104.482154,
+        "latitud": 19.099776,
+        "dist_canon_km": 24.59,
+        "dist_puerto_km": 17.92,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3907,
+        "fitness_2": 17.917,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.41179051410447,
+          19.098569696771563
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "longitud": -104.411791,
+        "latitud": 19.09857,
+        "dist_canon_km": 19.68,
+        "dist_puerto_km": 11.06,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4835,
+        "fitness_2": 11.0552,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.40660049228865,
+          19.099845748983082
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "longitud": -104.4066,
+        "latitud": 19.099846,
+        "dist_canon_km": 19.51,
+        "dist_puerto_km": 10.66,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4875,
+        "fitness_2": 10.6557,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3945359270237,
+          19.099980885589844
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "longitud": -104.394536,
+        "latitud": 19.099981,
+        "dist_canon_km": 18.9,
+        "dist_puerto_km": 9.6,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5026,
+        "fitness_2": 9.6043,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32169005951792,
+          19.083521341323713
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "longitud": -104.32169,
+        "latitud": 19.083521,
+        "dist_canon_km": 14.9,
+        "dist_puerto_km": 3.73,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.629,
+        "fitness_2": 3.7316,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32038385646885,
+          19.06921804856414
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "longitud": -104.320384,
+        "latitud": 19.069218,
+        "dist_canon_km": 13.3,
+        "dist_puerto_km": 2.14,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6992,
+        "fitness_2": 2.1373,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.05619441105551,
+          19.099775522184462
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "longitud": -104.056194,
+        "latitud": 19.099776,
+        "dist_canon_km": 30.17,
+        "dist_puerto_km": 28.27,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3209,
+        "fitness_2": 28.2703,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32535684999495,
+          19.06232703569826
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "longitud": -104.325357,
+        "latitud": 19.062327,
+        "dist_canon_km": 12.59,
+        "dist_puerto_km": 1.48,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7356,
+        "fitness_2": 1.4818,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32052766940623,
+          19.052974598783752
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "longitud": -104.320528,
+        "latitud": 19.052975,
+        "dist_canon_km": 11.5,
+        "dist_puerto_km": 0.34,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7998,
+        "fitness_2": 0.3354,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0921484949726,
+          19.09855942029406
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "longitud": -104.092148,
+        "latitud": 19.098559,
+        "dist_canon_km": 27.58,
+        "dist_puerto_km": 24.55,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3499,
+        "fitness_2": 24.5461,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32713707378902,
+          19.069732110286015
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "longitud": -104.327137,
+        "latitud": 19.069732,
+        "dist_canon_km": 13.43,
+        "dist_puerto_km": 2.32,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6928,
+        "fitness_2": 2.3188,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32294266597766,
+          19.073122227808806
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "longitud": -104.322943,
+        "latitud": 19.073122,
+        "dist_canon_km": 13.76,
+        "dist_puerto_km": 2.59,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6776,
+        "fitness_2": 2.5896,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.33012698147132,
+          19.09986453503176
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "longitud": -104.330127,
+        "latitud": 19.099865,
+        "dist_canon_km": 16.8,
+        "dist_puerto_km": 5.65,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5619,
+        "fitness_2": 5.6459,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.04748851151761,
+          19.099843510592436
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "longitud": -104.047489,
+        "latitud": 19.099844,
+        "dist_canon_km": 30.81,
+        "dist_puerto_km": 29.17,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3144,
+        "fitness_2": 29.1695,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.47777517493759,
+          19.09794172033862
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "longitud": -104.477775,
+        "latitud": 19.097942,
+        "dist_canon_km": 24.12,
+        "dist_puerto_km": 17.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3981,
+        "fitness_2": 17.4165,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.47777517493759,
+          19.09794172033862
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "longitud": -104.477775,
+        "latitud": 19.097942,
+        "dist_canon_km": 24.12,
+        "dist_puerto_km": 17.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3981,
+        "fitness_2": 17.4165,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.39907878996102,
+          19.099845056666194
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "longitud": -104.399079,
+        "latitud": 19.099845,
+        "dist_canon_km": 19.11,
+        "dist_puerto_km": 9.99,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4972,
+        "fitness_2": 9.9891,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.41411384002951,
+          19.09989646625728
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "longitud": -104.414114,
+        "latitud": 19.099896,
+        "dist_canon_km": 19.94,
+        "dist_puerto_km": 11.34,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4776,
+        "fitness_2": 11.3403,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.44369559145295,
+          19.099400635698313
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "longitud": -104.443696,
+        "latitud": 19.099401,
+        "dist_canon_km": 21.76,
+        "dist_puerto_km": 14.11,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4394,
+        "fitness_2": 14.1121,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.44369559145295,
+          19.099400635698313
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "longitud": -104.443696,
+        "latitud": 19.099401,
+        "dist_canon_km": 21.76,
+        "dist_puerto_km": 14.11,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4394,
+        "fitness_2": 14.1121,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.37620451253287,
+          19.09873271981955
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "longitud": -104.376205,
+        "latitud": 19.098733,
+        "dist_canon_km": 17.94,
+        "dist_puerto_km": 8.02,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5279,
+        "fitness_2": 8.0157,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          19.094323668962605
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "longitud": -104.497087,
+        "latitud": 19.094324,
+        "dist_canon_km": 25.38,
+        "dist_puerto_km": 19.25,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.379,
+        "fitness_2": 19.2519,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.46750378191571,
+          19.099912407253356
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "longitud": -104.467504,
+        "latitud": 19.099912,
+        "dist_canon_km": 23.49,
+        "dist_puerto_km": 16.46,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4083,
+        "fitness_2": 16.4647,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.46750378191571,
+          19.099912407253356
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "longitud": -104.467504,
+        "latitud": 19.099912,
+        "dist_canon_km": 23.49,
+        "dist_puerto_km": 16.46,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4083,
+        "fitness_2": 16.4647,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.41635243833547,
+          19.09989646625728
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "longitud": -104.416352,
+        "latitud": 19.099896,
+        "dist_canon_km": 20.07,
+        "dist_puerto_km": 11.55,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4746,
+        "fitness_2": 11.546,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32143489653278,
+          19.089709824814324
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "longitud": -104.321435,
+        "latitud": 19.08971,
+        "dist_canon_km": 15.58,
+        "dist_puerto_km": 4.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6031,
+        "fitness_2": 4.4181,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32358386796878,
+          19.089638772679667
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "longitud": -104.323584,
+        "latitud": 19.089639,
+        "dist_canon_km": 15.59,
+        "dist_puerto_km": 4.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6027,
+        "fitness_2": 4.4237,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32008732381419,
+          19.052403007607854
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "longitud": -104.320087,
+        "latitud": 19.052403,
+        "dist_canon_km": 11.44,
+        "dist_puerto_km": 0.27,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.8041,
+        "fitness_2": 0.2674,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4415800353707,
+          19.098527278604898
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "longitud": -104.44158,
+        "latitud": 19.098527,
+        "dist_canon_km": 21.54,
+        "dist_puerto_km": 13.87,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4436,
+        "fitness_2": 13.8695,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49164915056373,
+          18.700077120327443
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "longitud": -104.491649,
+        "latitud": 18.700077,
+        "dist_canon_km": 33.7,
+        "dist_puerto_km": 42.9,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2882,
+        "fitness_2": 42.8967,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45761583466893,
+          19.099282897084144
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "longitud": -104.457616,
+        "latitud": 19.099283,
+        "dist_canon_km": 22.72,
+        "dist_puerto_km": 15.47,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4215,
+        "fitness_2": 15.4654,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.07628219140844,
+          19.099847581553387
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "longitud": -104.076282,
+        "latitud": 19.099848,
+        "dist_canon_km": 28.75,
+        "dist_puerto_km": 26.21,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3361,
+        "fitness_2": 26.2051,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.34425710379094,
+          19.099659448312686
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "longitud": -104.344257,
+        "latitud": 19.099659,
+        "dist_canon_km": 17.03,
+        "dist_puerto_km": 6.08,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5547,
+        "fitness_2": 6.0819,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.00689208124763,
+          19.09988263687402
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "longitud": -104.006892,
+        "latitud": 19.099883,
+        "dist_canon_km": 31.86,
+        "dist_puerto_km": 33.37,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3043,
+        "fitness_2": 33.3686,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32323252730573,
+          19.067308362009012
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "longitud": -104.323233,
+        "latitud": 19.067308,
+        "dist_canon_km": 13.12,
+        "dist_puerto_km": 1.95,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7083,
+        "fitness_2": 1.9544,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49815478231764,
+          18.717814605502348
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "longitud": -104.498155,
+        "latitud": 18.717815,
+        "dist_canon_km": 32.54,
+        "dist_puerto_km": 41.42,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2982,
+        "fitness_2": 41.4209,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.40256266695589,
+          19.099924439598286
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "longitud": -104.402563,
+        "latitud": 19.099924,
+        "dist_canon_km": 19.3,
+        "dist_puerto_km": 10.3,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4925,
+        "fitness_2": 10.3004,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.35818247326569,
+          19.09715919499741
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "longitud": -104.358182,
+        "latitud": 19.097159,
+        "dist_canon_km": 17.13,
+        "dist_puerto_km": 6.6,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5516,
+        "fitness_2": 6.603,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32041909727717,
+          19.055710640618592
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "longitud": -104.320419,
+        "latitud": 19.055711,
+        "dist_canon_km": 11.81,
+        "dist_puerto_km": 0.64,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7809,
+        "fitness_2": 0.6365,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.48057418431061,
+          19.09794172033862
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "longitud": -104.480574,
+        "latitud": 19.097942,
+        "dist_canon_km": 24.33,
+        "dist_puerto_km": 17.7,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3947,
+        "fitness_2": 17.6968,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0844471206592,
+          19.09989825792268
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "longitud": -104.084447,
+        "latitud": 19.099898,
+        "dist_canon_km": 28.2,
+        "dist_puerto_km": 25.37,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3424,
+        "fitness_2": 25.3683,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.36042107157165,
+          19.098901122194103
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "longitud": -104.360421,
+        "latitud": 19.098901,
+        "dist_canon_km": 17.38,
+        "dist_puerto_km": 6.9,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5439,
+        "fitness_2": 6.9001,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.04748851151761,
+          19.097843696559416
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "longitud": -104.047489,
+        "latitud": 19.097844,
+        "dist_canon_km": 30.65,
+        "dist_puerto_km": 29.13,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3159,
+        "fitness_2": 29.1282,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32011721156266,
+          19.059756292778015
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "longitud": -104.320117,
+        "latitud": 19.059756,
+        "dist_canon_km": 12.25,
+        "dist_puerto_km": 1.08,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7547,
+        "fitness_2": 1.0849,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32011721156266,
+          19.059756292778015
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "longitud": -104.320117,
+        "latitud": 19.059756,
+        "dist_canon_km": 12.25,
+        "dist_puerto_km": 1.08,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7547,
+        "fitness_2": 1.0849,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49579073782077,
+          19.09986453503176
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "longitud": -104.495791,
+        "latitud": 19.099865,
+        "dist_canon_km": 25.67,
+        "dist_puerto_km": 19.29,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3749,
+        "fitness_2": 19.2879,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3288274045024,
+          19.07391316213776
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "longitud": -104.328827,
+        "latitud": 19.073913,
+        "dist_canon_km": 13.92,
+        "dist_puerto_km": 2.82,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6702,
+        "fitness_2": 2.8162,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0208829718131,
+          19.099944498585455
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "longitud": -104.020883,
+        "latitud": 19.099944,
+        "dist_canon_km": 31.67,
+        "dist_puerto_km": 31.92,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3061,
+        "fitness_2": 31.9208,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.03729772979123,
+          19.09997774241486
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "longitud": -104.037298,
+        "latitud": 19.099978,
+        "dist_canon_km": 31.54,
+        "dist_puerto_km": 30.22,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3074,
+        "fitness_2": 30.2243,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.35818247326569,
+          19.097937436384395
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "longitud": -104.358182,
+        "latitud": 19.097937,
+        "dist_canon_km": 17.21,
+        "dist_puerto_km": 6.67,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5491,
+        "fitness_2": 6.6719,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3261229780338,
+          19.086780873250724
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "longitud": -104.326123,
+        "latitud": 19.086781,
+        "dist_canon_km": 15.3,
+        "dist_puerto_km": 4.14,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.6134,
+        "fitness_2": 4.1402,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32354765211365,
+          19.057993939917957
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "longitud": -104.323548,
+        "latitud": 19.057994,
+        "dist_canon_km": 12.09,
+        "dist_puerto_km": 0.96,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7638,
+        "fitness_2": 0.9639,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32354765211365,
+          19.057993939917957
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "longitud": -104.323548,
+        "latitud": 19.057994,
+        "dist_canon_km": 12.09,
+        "dist_puerto_km": 0.96,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7638,
+        "fitness_2": 0.9639,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32396019324584,
+          19.06232703569826
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "longitud": -104.32396,
+        "latitud": 19.062327,
+        "dist_canon_km": 12.58,
+        "dist_puerto_km": 1.43,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.7366,
+        "fitness_2": 1.4325,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "NO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.04060237546452,
+          19.099377236604926
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "longitud": -104.040602,
+        "latitud": 19.099377,
+        "dist_canon_km": 31.29,
+        "dist_puerto_km": 29.87,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3097,
+        "fitness_2": 29.8707,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.02260748056462,
+          19.09990823362941
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "longitud": -104.022607,
+        "latitud": 19.099908,
+        "dist_canon_km": 31.65,
+        "dist_puerto_km": 31.74,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3063,
+        "fitness_2": 31.7417,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.05727396523493,
+          19.09945588298863
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "longitud": -104.057274,
+        "latitud": 19.099456,
+        "dist_canon_km": 30.06,
+        "dist_puerto_km": 28.15,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3219,
+        "fitness_2": 28.1521,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.31992825395051,
+          19.098644909923852
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "longitud": -104.319928,
+        "latitud": 19.098645,
+        "dist_canon_km": 16.56,
+        "dist_puerto_km": 5.41,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5694,
+        "fitness_2": 5.4091,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.48968601549159,
+          19.09996951777626
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "longitud": -104.489686,
+        "latitud": 19.09997,
+        "dist_canon_km": 25.2,
+        "dist_puerto_km": 18.68,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3817,
+        "fitness_2": 18.6778,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          18.707049520859687
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "longitud": -104.497087,
+        "latitud": 18.70705,
+        "dist_canon_km": 33.43,
+        "dist_puerto_km": 42.44,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2905,
+        "fitness_2": 42.4426,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4970871007074,
+          18.707049520859687
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "longitud": -104.497087,
+        "latitud": 18.70705,
+        "dist_canon_km": 33.43,
+        "dist_puerto_km": 42.44,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.2905,
+        "fitness_2": 42.4426,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.36940124615084,
+          19.097278744352984
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "longitud": -104.369401,
+        "latitud": 19.097279,
+        "dist_canon_km": 17.53,
+        "dist_puerto_km": 7.39,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.5398,
+        "fitness_2": 7.3885,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45737548558584,
+          19.099282897084144
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "longitud": -104.457375,
+        "latitud": 19.099283,
+        "dist_canon_km": 22.71,
+        "dist_puerto_km": 15.44,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.4218,
+        "fitness_2": 15.4418,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.01412058535325,
+          19.09990823362941
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "longitud": -104.014121,
+        "latitud": 19.099908,
+        "dist_canon_km": 31.76,
+        "dist_puerto_km": 32.62,
+        "profundidad_m": -100,
+        "pendiente_grados": 10,
+        "fitness_1": 5.3053,
+        "fitness_2": 32.6202,
+        "fitness_3": 1.0,
+        "cumple_dist_canon": "SI",
+        "cumple_dist_ideal": "SI"
+      }
+    }
+  ]
+}
