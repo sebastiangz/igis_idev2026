@@ -216,6 +216,8 @@ ranking,longitud,latitud,dist_canon_km,dist_puerto_km,profundidad_m,pendiente_gr
 **frente\_pareto\_3d.html:**
 Visualización interactiva 3D del frente de Pareto con Plotly.
 
+![Resultados](https://raw.githubusercontent.com/sebastiangz/igis_idev2026/main/AnalisisGeoespacialVertimientos/_images/vis3d.png)
+
 ## 🔬 METODOLOGÍA
 
 ### Algoritmo NSGA-II (Non-dominated Sorting Genetic Algorithm II)
