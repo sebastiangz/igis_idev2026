@@ -31,8 +31,8 @@ OptimizacionVertimientos/
 │   ├── mapa\\\_optimizacion\\\_vertimiento.html  # Mapa con capas GEE
 │   └── evolucion\\\_algoritmo.csv        # Estadísticas de convergencia
 │
-├── GA\\\_VERTIMIENTOS\\\_CUYUTLAN\\\_v1.py     # Script principal de optimización
-├── GA\\\_VISUALIZACION\\\_PARETO.py         # Módulo de visualización
+├── _v1.py     # Script principal de optimización
+├── _PARETO.py         # Módulo de visualización
 └── README.md                          # Este archivo
 ```
 
@@ -116,7 +116,7 @@ Instalaciones críticas para análisis de efecto dominó.
 
 ## ⚙️ CONFIGURACIÓN
 
-Editar las siguientes variables en `GA\\\_VERTIMIENTOS\\\_CUYUTLAN\\\_v1.py`:
+Editar las siguientes variables en `_v1.py`:
 
 ```python
 # Rutas de archivos
