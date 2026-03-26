@@ -241,7 +241,7 @@ reconstruction of the great Mexican 22 June 1932 tsunami.
 * Hühnerbach, V., \& Masson, D.G. (2004). Landslides in the North Atlantic
 and its adjacent seas.
 
-## 👥 AUTORES
+## AUTORES
 
 Basado en NATECHv3.py (sgz) - Mejorado con Algoritmos Genéticos por GAEGRUC
 Proyecto: MIA Puerto Nuevo Manzanillo, Colima
