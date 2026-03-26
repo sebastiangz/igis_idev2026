@@ -1,10 +1,7 @@
-# ============================================================
 
 # SISTEMA DE OPTIMIZACIÓN DE VERTIMIENTOS CON ALGORITMOS GENÉTICOS
 
 # Puerto Nuevo Manzanillo - Laguna de Cuyutlán, Colima
-
-# ============================================================
 
 ## &#x20;DESCRIPCIÓN
 
