@@ -428,7 +428,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 ```
 MIT License
 
-Copyright (c) 2024 [Tu Nombre/Organización]
+Copyright (c) 2026 [GAEGRUC]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -438,7 +438,7 @@ of this software and associated documentation files...
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [@tu-github](https://github.com/tu-usuario)
+- **Tu Nombre** - *Desarrollo inicial* - [@tu-github](https://github.com/sebastiangz)
 
 ### Basado en
 - **GA_VERTIMIENTOS_CUYUTLAN_v1.py** - Análisis de optimización de vertimientos con AG
@@ -447,9 +447,9 @@ of this software and associated documentation files...
 
 ## 📞 Contacto
 
-- **Email**: tu-email@example.com
-- **Proyecto**: [https://github.com/tu-usuario/evaluacion-alternativas-puerto](https://github.com/tu-usuario/evaluacion-alternativas-puerto)
-- **Issues**: [https://github.com/tu-usuario/evaluacion-alternativas-puerto/issues](https://github.com/tu-usuario/evaluacion-alternativas-puerto/issues)
+- **Email**: sgonzalez@infraestructuragis.com
+- **Proyecto**: [https://github.com/sebastiangz/evaluacion-alternativas-puerto](https://github.com/tu-usuario/evaluacion-alternativas-puerto)
+- **Issues**: [https://github.com/sebastiangz/evaluacion-alternativas-puerto/issues](https://github.com/tu-usuario/evaluacion-alternativas-puerto/issues)
 
 ---
 
