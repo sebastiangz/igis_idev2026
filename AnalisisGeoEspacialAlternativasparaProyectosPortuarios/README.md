@@ -438,7 +438,7 @@ of this software and associated documentation files...
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [@tu-github](https://github.com/sebastiangz)
+- **sebastiangz** - *Desarrollo inicial* - [@tu-github](https://github.com/sebastiangz)
 
 ### Basado en
 - **GA_VERTIMIENTOS_CUYUTLAN_v1.py** - Análisis de optimización de vertimientos con AG
