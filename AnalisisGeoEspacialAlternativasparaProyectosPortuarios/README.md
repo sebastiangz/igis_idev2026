@@ -458,7 +458,7 @@ of this software and associated documentation files...
 - Google Earth Engine por proporcionar acceso a datos geoespaciales
 - Comunidad DEAP por las herramientas de algoritmos evolutivos
 - QGIS Development Team por el software GIS de código abierto
-- Antropic Claude por asistencia en desarrollo de código
+
 
 ---
 
