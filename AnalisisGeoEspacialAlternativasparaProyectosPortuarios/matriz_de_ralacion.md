@@ -210,16 +210,12 @@ La metodología integrada de algoritmos genéticos, Google Earth Engine y análi
 
 ## 8. CONCLUSIÓN
 
-La presente propuesta de matriz de relación para evaluación comparativa de alternativas cumple con los requisitos establecidos en la observación, proporcionando:
+La propuesta de matriz de relación para evaluación comparativa de alternativas cumple con los requisitos establecidos en la observación, proporcionando:
 
 - 1. Evaluación de al menos 3 sitios alternativos además de la alternativa cero
-
 - 2. Criterios ambientales que valoran hidrodinámica, calidad de agua, biodiversidad, manglar, residuos/emisiones y riesgo de inundación/erosión
-
 - 3. Criterios técnicos, sociales y económicos complementarios
-
 - 4. Justificación clara y documentada de la selección de la alternativa propuesta
-
 - 5. Tablas y mapas comparativos para identificación objetiva de la alternativa más viable
 
-La metodología propuesta garantiza una evaluación rigurosa, transparente y científicamente fundamentada que permitirá la toma de decisiones informada en materia de sustentabilidad del proyecto.
+La metodología propuesta garantizará una evaluación rigurosa, transparente y científicamente fundamentada que permita la toma de decisiones informada en materia de sustentabilidad del proyecto en cuestión.
