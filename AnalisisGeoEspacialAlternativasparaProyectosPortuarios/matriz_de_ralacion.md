@@ -62,9 +62,6 @@ La matriz de relación se estructura en 4 categorías principales con 16 criteri
 | TEC-03 | Accesibilidad y Conectividad | Técnico | 5.0 | Índice [0-10] | Maximizar |
 | TEC-04 | Distancia a Infraestructura Existente | Técnico | 5.0 | Kilómetros | Minimizar |
 |  | SUBTOTAL TÉCNICO | 30.0% |  |
-
-## 3. ESTRUCTURA DE CRITERIOS (continuación)
-
 | ID | Criterio | Categoría | Peso (%) | Unidad | Tipo |
 | --- | --- | --- | --- | --- | --- |
 | SOC-01 | Impacto en Comunidades Locales | Social | 7.0 | Índice [0-10] | Minimizar |
