@@ -93,7 +93,7 @@ Proporcionar una **evaluación objetiva, transparente y científicamente fundame
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/evaluacion-alternativas-puerto.git
+git clone https://github.com/sebastiangz/evaluacion-alternativas-puerto.git
 cd evaluacion-alternativas-puerto
 ```
 
