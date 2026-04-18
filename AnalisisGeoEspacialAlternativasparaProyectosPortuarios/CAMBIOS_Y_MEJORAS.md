@@ -490,4 +490,4 @@ Ranking: 1 (mejor de las alternativas de construcción) ✅
 
 **Versión del documento**: 2.0  
 **Fecha**: 2024-04-18  
-**Autor**: Sistema de Evaluación de Alternativas Mejorado
+**Autor**: GAEGRUC
